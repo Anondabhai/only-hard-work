@@ -3,3 +3,53 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.header{
+   
+    background-color: bisque;
+
+}
+
+.div-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:0 250px;
+}
+
+.text-praimary{
+    color:#575757;
+    font-weight: 700;
+    text-align:center;
+}
+
+.div-title{
+    
+    text-align: center;
+}
+
+.btn-style{
+    background:orange;
+    border-radius:5px;
+    font-size:25px;
+    font-weight:700;
+    color:#fff;
+    border:0;
+    padding:5px 14px;
+}
+
+.section-title{
+    text-align:center;
+   
+    
+}
+
+.div-style{
+    align-items:center;
+    
+}
+
+.styles-flower{
+    font-size: 45px;
+    font-size:700;
+}
