@@ -47,9 +47,16 @@ body {
     padding: 5px 14px;
 }
 
+/* main related section */
+
+/* .selling-title{
+    background-color: palevioletred;
+    align-items:center;
+} */
+
 .section-title {
     text-align: center;
-
+    
 
 }
 
@@ -69,6 +76,7 @@ body {
 
 .section-photo{
   padding:10px 10px 10px 10px ;
+ 
 }
 
 .photo-style-1 {
@@ -87,4 +95,34 @@ body {
 .photo-style-3{
     height: 438px;
     background-color:rgba(26, 245, 136, 0.41) ;
+}
+
+.off-style{
+    color:rgba(255, 51, 0, 0.715);
+}
+/* section-related 2  */
+
+.headin-div{
+    display:flex;
+    justify-content:space-between;
+    margin:0 250px;
+    background-color:bisque;
+    border-radius: 3px;
+    border: 2px solid yellow;
+   
+}
+
+.div-style{
+   text-align:center;
+}
+
+.section-title{
+    margin: 350px 150px 35px 0px;
+    font-size: 45px;
+    font-weight: 700;
+    
+}
+
+.text-h6{
+    align-items: center;
 }
